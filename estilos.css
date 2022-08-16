@@ -1,0 +1,11 @@
+#titulo {
+    text-align: center;
+}
+
+.fundo {
+    background-color: aliceblue;
+}
+
+.ball ul li {
+    list-style: none;
+}
